@@ -1,0 +1,13 @@
+# Env
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+env/
+.venv/
+
+# Vector database
+db/
